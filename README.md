@@ -4,7 +4,7 @@ I'm a Software Engineering student at Florida Gulf Coast University. I'm passion
 
 - 🔭 I'm currently working on my senior project/internship with the United States Department of Homeland Security, where I'm applying my skills to make web scraping software to help with investigations.
 - 👨‍🏫 I previously served as an intern for Atlantic Engineering Services to assist in job site surveys & to update company websites to increase recruitment.
-- 💼 I'm a proud Research Assistant, researching methods to secure drones & IoT in tactical edge networks in a resource-aware approach that utilizes machine learning.
+- 💼 I'm a proud Junior Researcher, researching methods to secure drones & IoT in tactical edge networks in a resource-aware approach that utilizes machine learning.
 - 💻 I'm fluent in several programming languages including Python, C++, JavaScript, and HTML/CSS.
 - 🌐 I'm experienced with various frameworks, including Node, Express, and React.
 - 📦 I'm well-versed in working with databases like MySQL, and SQLite.
